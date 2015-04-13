@@ -1,6 +1,6 @@
 Package.describe({
   name: 'strikeout:salesforce',
-  version: '0.0.1',
+  version: '1.4.1m',
   // Brief, one-line summary of the package.
   summary: 'Interface with the Salesforce API by wrapping npm package JSforce for meteor',
   // URL to the Git repository containing the source code for this package.
