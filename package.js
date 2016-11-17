@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'gchameleon:salesforce',
+  name: 'chameleon:salesforce',
   version: '1.4.2',
   // Brief, one-line summary of the package.
   summary: 'Salesforce for Meteor (via JSforce)',
