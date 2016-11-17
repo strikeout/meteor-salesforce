@@ -13,7 +13,7 @@ Set it up in Meteor settings:
 
     "private": {
         "salesforce": {
-            "loginUrl": "https://test.salesforce.com", // optional, only if you want to connect to a sandbox
+            "url": "https://test.salesforce.com", // optional, only if you want to connect to a sandbox
             "auth": {
                 "user": "username",
                 "pass": "password",
