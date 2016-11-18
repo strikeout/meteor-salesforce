@@ -2,7 +2,7 @@ Package.describe({
   name: 'chameleon:salesforce',
   version: '1.4.2',
   // Brief, one-line summary of the package.
-  summary: 'Salesforce for Meteor (via JSforce)',
+  summary: 'Salesforce for Meteor (via JSforce) with setting for loginUrl',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/gchameleon/meteor-salesforce',
   // By default, Meteor will default to using README.md for documentation.
